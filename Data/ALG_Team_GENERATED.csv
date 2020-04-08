@@ -1,0 +1,51 @@
+Team_id,TeamName,TeamBouw,IN_Team_id,MI_Team_id,CAT_Team_id,MI_InjuryCards_Team_id,ProSoccerData_Team_id,Ortec_Team_id
+1,Human Resources,Health,44,Training,Marketing,17,19,1
+2,Support,Jewelery,26,Legal,Services,10,7,12
+3,Training,Electronics,34,Business Development,Accounting,6,1,3
+4,Marketing,Beauty,6,Services,Accounting,4,20,15
+5,Marketing,Electronics,47,Accounting,Business Development,12,1,8
+6,Accounting,Beauty,44,Marketing,Accounting,6,10,16
+7,Marketing,Movies,43,Accounting,Product Management,0,20,17
+8,Marketing,Clothing,29,Training,Research and Development,4,1,2
+9,Marketing,Beauty,1,Accounting,Services,6,14,3
+10,Product Management,Baby,36,Research and Development,Marketing,14,3,15
+11,Marketing,Sports,45,Marketing,Sales,20,13,20
+12,Research and Development,Movies,12,Training,Business Development,15,10,8
+13,Accounting,Computers,40,Services,Legal,19,1,9
+14,Human Resources,Games,12,Engineering,Support,16,1,8
+15,Legal,Clothing,44,Marketing,Training,14,13,4
+16,Services,Beauty,45,Training,Legal,18,13,20
+17,Legal,Books,42,Marketing,Product Management,4,2,19
+18,Training,Clothing,23,Services,Research and Development,19,1,10
+19,Legal,Kids,21,Services,Training,18,4,13
+20,Business Development,Outdoors,33,Product Management,Business Development,19,4,8
+21,Support,Garden,28,Marketing,Research and Development,11,12,5
+22,Business Development,Computers,33,Sales,Marketing,12,16,1
+23,Sales,Outdoors,46,Research and Development,Research and Development,1,8,5
+24,Research and Development,Home,23,Engineering,Business Development,4,18,14
+25,Marketing,Tools,32,Sales,Business Development,3,15,4
+26,Marketing,Shoes,38,Sales,Legal,17,3,20
+27,Accounting,Toys,40,Marketing,Business Development,10,10,18
+28,Business Development,Toys,42,Business Development,Engineering,13,10,12
+29,Human Resources,Health,0,Support,Engineering,16,16,4
+30,Services,Books,19,Business Development,Marketing,5,14,18
+31,Engineering,Grocery,40,Human Resources,Training,2,15,11
+32,Product Management,Games,20,Engineering,Legal,12,11,8
+33,Engineering,Toys,6,Research and Development,Legal,17,1,1
+34,Support,Industrial,12,Sales,Human Resources,17,11,6
+35,Services,Baby,27,Engineering,Product Management,10,9,4
+36,Training,Clothing,30,Accounting,Marketing,7,10,12
+37,Human Resources,Automotive,5,Business Development,Human Resources,0,16,2
+38,Accounting,Health,30,Business Development,Engineering,1,3,14
+39,Support,Baby,28,Human Resources,Sales,7,1,3
+40,Research and Development,Beauty,28,Research and Development,Engineering,5,7,5
+41,Accounting,Jewelery,5,Sales,Accounting,5,7,0
+42,Sales,Kids,28,Sales,Services,14,9,20
+43,Support,Computers,46,Accounting,Research and Development,6,5,14
+44,Training,Industrial,20,Marketing,Support,12,10,9
+45,Support,Beauty,1,Product Management,Marketing,16,2,16
+46,Legal,Games,50,Training,Training,12,17,10
+47,Research and Development,Sports,30,Marketing,Engineering,6,8,3
+48,Legal,Tools,44,Training,Training,14,4,15
+49,Business Development,Electronics,36,Engineering,Research and Development,13,9,5
+50,Accounting,Industrial,20,Services,Product Management,11,11,7
